@@ -1,0 +1,12 @@
+For all this need to install python 3+
+After install python 3+ do bellow from cmd.
+
+pip install opencv-python
+pip install pydub
+pip install numpy
+pip install Pillow
+pip install pydub
+
+After this download ffmpeg and install from link bellow.
+
+Install ffmpeg - http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
